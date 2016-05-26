@@ -1,0 +1,24 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+header{
+	width: 100%;
+	position: fixed;
+	z-index: 10;
+	height: 50px;
+	background:  #33d6ff;
+	padding: 5px;
+}
+#banner{
+	height: 500px;
+	position:fixed;
+	top: 100px;
+	background: white;
+}
+#content {
+	background: grey;
+	position: relative;
+	top: 550px;
+	height: 1500px;
+}
